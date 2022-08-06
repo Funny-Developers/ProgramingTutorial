@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="LearningProject.pas"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <CursorPos X="12" Y="17"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="3">
+      <Position>
+        <Filename Value="LearningProject.pas"/>
+        <Caret Line="15" Column="6"/>
+      </Position>
+      <Position>
+        <Filename Value="LearningProject.pas"/>
+        <Caret Line="3" Column="5"/>
+      </Position>
+      <Position>
+        <Filename Value="LearningProject.pas"/>
+        <Caret Line="5" Column="10"/>
+      </Position>
+      <Position>
+        <Filename Value="LearningProject.pas"/>
+        <Caret Line="3" Column="6"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

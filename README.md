@@ -1,2 +1,3 @@
 # ProgramingTutorial
-Learning how to make a program.
+学习如何编写一个程序。
+
