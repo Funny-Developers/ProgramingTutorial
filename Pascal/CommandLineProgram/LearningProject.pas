@@ -14,7 +14,7 @@ end;                                                      (*函数体结束*)
 
 function prepare(x1, x2:longint):boolean;                 (*定义一个返回布尔值的函数prepare, 其参数为长整型x1, x2*)
 begin                                                     (*函数体开始*)
-  if x1 > x2 then writeln('x1 is larger than x2');        (*比较x1与x2的大小, 若x1大于x2则输出"x1 is larger than x2"*)
+  if x1 > x2 then writeln('x1 is greater than x2');       (*比较x1与x2的大小, 若x1大于x2则输出"x1 is greater than x2"*)
   if x1 < x2 then writeln('x1 is smaller than x2');       (*比较x1与x2的大小, 若x1小于x2则输出"x1 is smaller than x2"*)
   if x1 = x2 then writeln('x1 is equals to x2');          (*比较x1与x2的大小, 若x1等于x2则输出"x1 is equals to x2"*)
 end;                                                      (*函数体结束*)
