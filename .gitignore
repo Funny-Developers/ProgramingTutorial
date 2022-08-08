@@ -1,3 +1,8 @@
 #Pascal
 Pascal/CommandLineProgram/lib/
 Pascal/CommandLineProgram/backup/
+
+#C#
+C#/CommandLineProgram/CommandLineProgram/CommandLineProgram/bin/
+C#/CommandLineProgram/CommandLineProgram/CommandLineProgram/obj/
+C#/CommandLineProgram/CommandLineProgram/.vs
